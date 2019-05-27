@@ -4,7 +4,7 @@
   "description": "docker node test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \\\"Error : no test specified\\\" && exit 1"
+    "test": "echo \"Error : no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,6 @@
   "homepage": "https://github.com/GWseo/docker_node_server#readme",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {}
 }
